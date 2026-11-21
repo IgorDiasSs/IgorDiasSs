@@ -9,7 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFtcHp4YmRqazN5eDR5enhmOTUzMjM5M3E1ZjFrbjJzOHhrcjZkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/123t0dxx3bQdCE/giphy.gif"  />
 
 ###
 
